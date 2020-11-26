@@ -1,0 +1,3 @@
+name: Adventures in Leading and Writing
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
