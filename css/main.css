@@ -5,9 +5,9 @@ body {
     color: #FFFFFF;
 }
 
-nav img {
-    vertical-align: middle
-}    
+.middle > * {
+  vertical-align: middle;
+}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
