@@ -9,12 +9,6 @@ body {
     top: 10px; 
     position: relative; 
 } 
-  
-#header-image-menu img{ 
-    width: 100%; 
-    margin: none; 
-    padding: none; 
-} 
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
