@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adventures in Leading and Writing Launches Site"
+title: "Caley In Progress Launches"
 date: 2020-11-25
 ---
 With the help of a [guide](http://jmcglone.com/guides/github-pages/) Jekyll docs recommended, I was able to finally get my site up and running! 
